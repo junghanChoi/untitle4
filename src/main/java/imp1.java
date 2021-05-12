@@ -16,4 +16,8 @@ public class imp1 implements I{
     public void some3(){
 
     }
+
+    public void some1(){
+        return;
+    }
 }
