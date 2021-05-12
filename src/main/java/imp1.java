@@ -13,11 +13,16 @@ public class imp1 implements I{
         return ;
     }
 
+    public void some1(){
+        return;
+    }
+
+    public void some2(){
+        return ;
+    }
+
     public void some3(){
 
     }
 
-    public void some1(){
-        return;
-    }
 }
