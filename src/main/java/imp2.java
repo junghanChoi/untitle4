@@ -3,7 +3,7 @@ public class imp2 implements I{
      * function 1
      */
     @Override
-    public void f1() {
+    public void f1(int v1, int v2) {
         System.out.println("hello f1");
         return ;
     }
