@@ -8,4 +8,8 @@ public class imp1 implements I{
     public int f2() {
         return 0;
     }
+
+    private void something(){
+        return ;
+    }
 }
