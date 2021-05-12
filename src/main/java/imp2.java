@@ -1,0 +1,20 @@
+public class imp2 implements I{
+    /**
+     * function 1
+     */
+    @Override
+    public void f1() {
+        System.out.println("hello f1");
+        return ;
+    }
+
+    /**
+     * function 2
+     *
+     * @return
+     */
+    @Override
+    public int f2() {
+        return 1;
+    }
+}
