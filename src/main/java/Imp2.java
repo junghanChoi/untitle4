@@ -16,6 +16,6 @@ public class Imp2 implements I{
     @Override
     public int f2() {
         return 1;
-        //ㅁㅈ디럼지ㅏㄹ
+        //팡션 2
     }
 }
