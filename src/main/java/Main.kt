@@ -20,6 +20,7 @@ object Main {
         // hello2
         //
         //31234
+        //ㅗㅈ댲ㄷㄱㅈㄷㄱ
         return 1
     }
 }
