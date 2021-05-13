@@ -16,6 +16,7 @@ object Main {
         inst1.some1()
         inst1.some2()
         inst1.some3()
+        // hello
         return 1
     }
 }
