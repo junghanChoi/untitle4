@@ -10,6 +10,8 @@ object Main {
 
     fun branch1() {
         println("ranch!")
+        // 아직 작업중입니다.
+        // 변경
     }
 
     fun imp1Use(inst1: Imp1): Int{
@@ -17,6 +19,8 @@ object Main {
         inst1.some2()
         inst1.some3()
         // hello
+        // hahaha
+        // asldkfjasdlkfj
         // hello2
         //
         //31234
