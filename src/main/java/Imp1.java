@@ -1,4 +1,6 @@
-public class imp1 implements I{
+import java.util.List;
+
+public class Imp1 implements I{
     @Override
     public void f1(int v1, int v2) {
         return ;
@@ -18,11 +20,13 @@ public class imp1 implements I{
     }
 
     public void some2(){
+        List.of(1,2,3,4,5).forEach(System.out::println);
         return ;
     }
 
     public void some3(){
-
+        something();
+        System.out.println("hello!");
     }
 
 }

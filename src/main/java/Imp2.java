@@ -1,4 +1,4 @@
-public class imp2 implements I{
+public class Imp2 implements I{
     /**
      * function 1
      */
