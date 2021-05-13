@@ -17,5 +17,6 @@ public class Imp2 implements I{
     public int f2() {
         return 1;
         //팡션 2
+        //팡샨2
     }
 }
