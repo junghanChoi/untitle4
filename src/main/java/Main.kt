@@ -5,7 +5,7 @@ object Main {
     fun main(args: Array<String>) {
         println("hello world")
         branch1()
-        imp1Use(Imp1());
+        imp1Use(Imp1())
     }
 
     fun branch1() {
@@ -20,6 +20,8 @@ object Main {
         inst1.some3()
         // hello
         // hahaha
+        val 에러가 = null;
+
         // asldkfjasdlkfj
         // hello2
         //
